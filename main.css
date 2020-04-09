@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;600&display=swap');
 
 * {
-    background-color: #131313;
+    background-color: #373737;
 }
 p, ul {
     font-family: 'Oswald', sans-serif;
@@ -18,13 +18,12 @@ p, ul {
 /*makes the nav bar at the top of the webpage*/
 .container {
     display: flex;
-    min-height: 30vh;
+    min-height: 10vh;
     flex-direction: row;
     flex-wrap: nowrap;
 }
 .box {
-    color: #0A90ED;
-    font-size: 50px;
+    font-size: 30px;
     font-family: 'Oswald', sans-serif;
     text-align: center;
     padding: 15px;
